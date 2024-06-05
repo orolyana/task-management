@@ -26,6 +26,6 @@ Then migrate the DB
 
 Copy and best this link in your browser to start your journey
 ```bash
- your-domain/tms/public/project/index
+ your-domain/task-management/public/project/index
 ```
 
